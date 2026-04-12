@@ -1,10 +1,8 @@
-# Hi, I'm Ruslan 👋
-
-Digital Service Design student turned developer — currently studying at **Hive Helsinki**.
-
 ## About
 
-- Student at **Hive Helsinki** (42 network) — peer-to-peer, project-based learning
+- Student at **Hive Helsinki** (42 network)
+- Writing my Bachelor's thesis
+- Transitioning from UX/UI design to software development
 - 3D printing hobbyist
 
 ## Stack & Tools
