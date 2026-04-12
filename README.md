@@ -16,5 +16,5 @@
 ## Currently
 
 - Writing my first Go programs at Hive Helsinki
-- Building [techhideaway.com](https://techhideaway.com) — a tech blog
+- Building a tech blog
 - Exploring a Raspberry Pi sensor hub project in Go
