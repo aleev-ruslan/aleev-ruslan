@@ -5,9 +5,6 @@ Digital Service Design student turned developer — currently studying at **Hive
 ## About
 
 - Student at **Hive Helsinki** (42 network) — peer-to-peer, project-based learning
-- Transitioning from UX/UI design to software development
-- Currently learning **Go** as my primary language
-- Running my own VPS
 - 3D printing hobbyist
 
 ## Stack & Tools
@@ -23,8 +20,3 @@ Digital Service Design student turned developer — currently studying at **Hive
 - Writing my first Go programs at Hive Helsinki
 - Building [techhideaway.com](https://techhideaway.com) — a tech blog
 - Exploring a Raspberry Pi sensor hub project in Go
-
-## Connect
-
-🌍 [ruslanaleev.com](https://ruslanaleev.com)  
-📝 [techhideaway.com](https://techhideaway.com)
