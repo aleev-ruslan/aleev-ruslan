@@ -14,9 +14,9 @@ Digital Service Design student turned developer — currently studying at **Hive
 
 | Area | Technologies |
 |---|---|
-| Learning | Go |
+| Learning | Go, Python |
 | Infra | Linux (Ubuntu), VPS |
-| Design roots | UX/UI |
+| Design roots | UX/UI, Prototyping, UX Research, Interaction Design |
 
 ## Currently
 
@@ -26,5 +26,5 @@ Digital Service Design student turned developer — currently studying at **Hive
 
 ## Connect
 
-- 🌍 [ruslanaleev.com](https://ruslanaleev.com)
-- 📝 [techhideaway.com](https://techhideaway.com)
+🌍 [ruslanaleev.com](https://ruslanaleev.com)
+📝 [techhideaway.com](https://techhideaway.com)
