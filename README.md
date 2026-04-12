@@ -26,5 +26,5 @@ Digital Service Design student turned developer — currently studying at **Hive
 
 ## Connect
 
-🌍 [ruslanaleev.com](https://ruslanaleev.com)
+🌍 [ruslanaleev.com](https://ruslanaleev.com)  
 📝 [techhideaway.com](https://techhideaway.com)
